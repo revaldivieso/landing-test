@@ -1,5 +1,5 @@
 const showData = (results) => {
-    return `<div class="view-2 col align-items-center">
+    return `<div class="cards col-md">
                 <div class="card text-center" style="width: 18rem;">
                     <img class="card-img-top" src="${results.picture.large}" alt="image">
                     <div class="card-body">
