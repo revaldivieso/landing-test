@@ -1,0 +1,25 @@
+{
+  "name": "landing-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server",
+    "publish": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revaldivieso/landing-test.git"
+  },
+  "author": "vianny reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revaldivieso/landing-test/issues"
+  },
+  "homepage": "https://github.com/revaldivieso/landing-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
